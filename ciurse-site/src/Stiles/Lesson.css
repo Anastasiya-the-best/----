@@ -1,0 +1,22 @@
+
+.styl{
+    min-height:175px;
+    max-height:  175px;
+    overflow:hidden ;
+ 
+}
+
+.styl:hover{
+    
+    max-height:fit-content;
+    cursor: pointer;
+ 
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.color{
+    background-color: rgb(27, 25, 100);
+    border: solid 1px rgb(15, 15, 29);
+}
